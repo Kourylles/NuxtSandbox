@@ -95,7 +95,7 @@ const { getRealCostumesByType } = storeToRefs(costumiereStore);
     >
       <div id="ContainerImg3" class="relative min-h-full w-full">
         <NuxtImg
-          class="rounded-b-xl bg-contain"
+          class="bg-contain"
           src="/avions/hurricane.jpg"
           alt="Photo formation Alice costumières"
           format="webp"
@@ -129,6 +129,46 @@ const { getRealCostumesByType } = storeToRefs(costumiereStore);
               <span class="capitalize italic"
                 >{{ costumiereStore.data.formations[1].lieu }}
               </span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Page Présentation Spectacle-->
+    <div
+      id="ContainerPresSpec1"
+      class="relative min-h-full w-full text-pink-100"
+    >
+      <div id="ContainerImg3" class="relative min-h-full w-full">
+        <NuxtImg
+          class="rounded-b-xl bg-contain"
+          src="/avions/corsair.jpg"
+          alt="Photo formation Alice costumières"
+          format="webp"
+        />
+        <div
+          class="bg-deepBlue-500 Z-10 absolute right-6 top-28 flex w-auto flex-col justify-center rounded-3xl bg-opacity-35 p-5 backdrop-blur-lg"
+          id="TextImg3"
+        >
+          <div class="text-lightPink-500 py-16 text-center text-3xl">
+            <p class="text-4xl font-extrabold capitalize">a christmas carol</p>
+            <br />
+            <p class="mt-28 text-3xl">
+              <span class="font-bold"> Costumes pour Marionettes </span>
+            </p>
+            <br />
+            <p class="mt-10 text-2xl capitalize italic">
+              Cie Bric à Brac
+              <br />
+              <span class="capitalize italic">2018 </span>
+            </p>
+            <br />
+            <p class="text-xl">
+              <span class="italic"
+                >Design et confection des masques et marionettes :
+              </span>
+              <br />
+              <span>Marina Coudray</span>
             </p>
           </div>
         </div>
