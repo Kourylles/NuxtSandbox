@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nom": "nom1",
+    "prenom": "prenom1",
+    "adresse": "adresse 1"
+  },
+  {
+    "id": 2,
+    "nom": "nom2",
+    "prenom": "prenom2",
+    "adresse": "adresse 2"
+  },
+  {
+    "id": 3,
+    "nom": "nom3",
+    "prenom": "prenom3",
+    "adresse": "adresse 3"
+  },
+  {
+    "id": 4,
+    "nom": "nom4",
+    "prenom": "prenom4",
+    "adresse": "adresse 4"
+  }
+]
