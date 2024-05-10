@@ -1,0 +1,114 @@
+{
+	"plageDate1": "//2007-2018//",
+	"plageDate2": "//2006-2009//",
+	"plageDate3": "//2003-2005//",
+
+	"realisations": [
+		{
+			"type": "Créations et confection",
+			"titre": "a chrismas carol",
+			"auteur": "adaptation de C.Dickens",
+			"metteurScene": "mise en scène M-A Gomes"
+		},
+		{
+			"type": "Créations et confection",
+			"titre": "Georges Dandin",
+			"auteur": "Molière",
+			"metteurScene": "mise en scène Willy Michadière"
+		},
+		{
+			"type": "Créations et confection",
+			"titre": "Monsieur Chasse",
+			"auteur": "Feydeau",
+			"metteurScene": "mise en scène Willy Michadière et Yann Palheire"
+		},
+		{
+			"type": "Créations et confection",
+			"titre": "Sur les pas de Melhaa",
+			"auteur": "Création originale de Marina Coudray et Alice Oudet",
+			"metteurScene": ""
+		},
+		{
+			"type": "Créations et confection",
+			"titre": "Don Quichotte",
+			"auteur": "Cervantès",
+			"metteurScene": "adaptation et mise en scène de La Troupe Solilès"
+		},
+		{
+			"type": "Créations et confection",
+			"titre": "Angelo Tyran de Padoue",
+			"auteur": "Victor Hugo",
+			"metteurScene": "mise en scène Willy Michardière"
+		},
+		{
+			"type": "Créations et confection",
+			"titre": "Billy et Patty",
+			"auteur": "duo burlesque de chants sur echasses",
+			"metteurScene": "de Chloé Spick et Maëlle Mays"
+		},
+		{
+			"type": "Créations et confection",
+			"titre": "Les Misérables",
+			"auteur": "Victor Hugo",
+			"metteurScene": "mise en scène Pieryk Vanneuville"
+		},
+		{
+			"type": "Créations et confection",
+			"titre": "Peter Pan",
+			"auteur": "James Mattew Barrie",
+			"metteurScene": "mise en scène Pieryk Vanneuville"
+		},
+		{
+			"type": "Créations et confection",
+			"titre": "Cyrano de Bergerac",
+			"auteur": "Edmond Rostand",
+			"metteurScene": "mise en scène Pierre Debauche"
+		},
+		{
+			"type": "Créations et confection",
+			"titre": "L'Ile au Trésor",
+			"auteur": "Robert Louis Stevenson",
+			"metteurScene": "mise en scène Pieryk Vanneuville"
+		},
+		{
+			"type": "Créations et confection",
+			"titre": "Robe de mariée",
+			"auteur": "Commande privée",
+			"metteurScene": ""
+		},
+		{
+			"type": "Assistant à la création et confection",
+			"titre": "L'Avare",
+			"auteur": "Molière",
+			"metteurScene": "mise en scène Robert Angebaud"
+		},
+		{
+			"type": "Assistant à la création et confection",
+			"titre": "La Vie Parisienne",
+			"auteur": "Jacques Offenbach",
+			"metteurScene": "mise en scène Robert Angebaud"
+		},
+		{
+			"type": "Assistant à la création et confection",
+			"titre": "Le Bourgeois Gentilhomme",
+			"auteur": "Molière",
+			"metteurScene": "mise en scène Robert Angebaud"
+		},
+		{
+			"type": "Assistant à la création et confection",
+			"titre": "Tour du monde en 80 rêve",
+			"auteur": "Emilie Bouruet Aubertot",
+			"metteurScene": "spectacle jeune public"
+		}
+	],
+	"formations": [
+		{
+			"intitule": "Ecole supèrieure d'Art Dramatique et de Comédie Musicale François Danell-Pierre Debauche",
+			"lieu": "Agen"
+		},
+		{
+			"intitule": "Licence d'Arts Plastiques",
+			"lieu": "Université de Bordeaux III"
+		}
+	]
+}
