@@ -28,6 +28,12 @@ const spectacleStore = useItemsUtabsStore().data;
         <UButton label="Costumes-Proposition 3" size="lg"></UButton>
       </NuxtLink>
     </div>
+    <div class="mt-2 p-5 text-center">
+      <p class="mt-5 text-white"></p>
+      <NuxtLink to="/pdf/flipPdf4/Alice Oudet Costumes4.html" target="_blank">
+        <UButton label="Costumes-Proposition 4" size="lg"></UButton>
+      </NuxtLink>
+    </div>
 
   </div>
 </template>
