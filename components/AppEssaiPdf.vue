@@ -9,4 +9,10 @@ const spectacleStore = useItemsUtabsStore().data;
       <UButton label="Doc" size="lg"></UButton>
     </NuxtLink>
   </div>
+  <div class="mx-auto mt-2 p-5 text-center">
+    <p class="mt-5 text-white"></p>
+    <NuxtLink to="/pdf/flipPdf/Alice Oudet Costumes.html" target="_blank">
+      <UButton label="FlipPdf" size="lg"></UButton>
+    </NuxtLink>
+  </div>
 </template>
